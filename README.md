@@ -1,5 +1,5 @@
 # README.md
-**HELLO**
+**HELLO**:wave:
 **I'm sandeep mannam currently an studend and moving my carrier towards Data science| Machine learning |python Developer**
 * :construction:I'm looking to collabrate on machine learning projects
 * :sunrise_over_mountains: I'm currently learning Machine learning and python
